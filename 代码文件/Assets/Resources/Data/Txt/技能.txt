@@ -1,0 +1,10 @@
+Id	Name	Drain	Type	SkillIndictorType	NeededObjId	ObjList	InstantType	SkillPrefab	SkillCD	Speed	Damage	Force	Duration	EffectNum	EffectList	Image	Introduction	
+0	五雷掌	20	Thunder	Direction	0		WithoutParent		3	0.5	50	3	3	1				
+1	护身雷	30	Thunder	Range	0		WithParent		20	0	20	0	10	1				
+2	落雷	40	Thunder	Point	0		InMousePos		15	40	0	80	1	1				
+3	障眼法	0	Hallucination	Default	0		WithParent		0	0	0	0	99999999	0				
+4	迷魂	0	Hallucination	Default	0		WithParent		0	0	0	0	99999999	0				
+5	木幻珠	0	Hallucination	Direction	0		WithoutParent		0	0.5	0	0	10	0				
+6	铁幻珠	0	Hallucination	Direction	0		WithoutParent		0	0.5	0	0	10	0				
+7	葫芦幻珠	0	Hallucination	Direction	0		WithoutParent		0	0.5	0	0	10	0				
+8	倾倒	0	Hallucination	Default	0		WithoutParent		0	0	0	0	99999999	0				

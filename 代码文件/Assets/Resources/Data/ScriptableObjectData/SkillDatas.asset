@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07e44770d3ae9b24f836ec0b1faa3622, type: 3}
+  m_Name: SkillDatas
+  m_EditorClassIdentifier: 
+  SkillsDatas:
+  - Id: 0
+    Type: 4
+    SkillIndictortype: 0
+    NeededObjId: []
+    NeededUseId: []
+    NeededStateId: []
+    InstantType: 4
+    SkillPrefab: {fileID: 1468026528243386674, guid: c222672890843f24bbd9ed956921a39e, type: 3}
+    SkillCD: 2
+    Drain: 3
+    Speed: 0.5
+    Damage: 50
+    Force: 3
+    Duration: 3
+    Effects:
+    - {fileID: 100002, guid: 433a654bbf2b2ef4b9fe5a52cdd98820, type: 3}
+    name: "\u4E94\u96F7\u638C"
+    image: {fileID: 21300000, guid: 2e7277d5d0a33ad44bf345b2a38072f5, type: 3}
+    introduction: "\u653E\u5165\u53F3\u4FA7\u9ED1\u8272\u5FEB\u6377\u952E\u53EF\u91CA\u653E\u6280\u80FD"
+  - Id: 1
+    Type: 4
+    SkillIndictortype: 0
+    NeededObjId: []
+    NeededUseId: []
+    NeededStateId: []
+    InstantType: 2
+    SkillPrefab: {fileID: 6052151702550661971, guid: 3a685e334ee287a43a7826a1717413e6, type: 3}
+    SkillCD: 2
+    Drain: 5
+    Speed: 0
+    Damage: 20
+    Force: 0
+    Duration: 10
+    Effects:
+    - {fileID: 100000, guid: cdab8f13fdb5149499cf316800062215, type: 3}
+    name: "\u62A4\u8EAB\u96F7"
+    image: {fileID: 21300000, guid: a61c9dc6f63fdd944ad81f9c6361a064, type: 3}
+    introduction: "\u653E\u5165\u53F3\u4FA7\u9ED1\u8272\u5FEB\u6377\u952E\u53EF\u91CA\u653E\u6280\u80FD"
+  - Id: 2
+    Type: 4
+    SkillIndictortype: 0
+    NeededObjId: []
+    NeededUseId: []
+    NeededStateId: []
+    InstantType: 8
+    SkillPrefab: {fileID: 266853573413807925, guid: 21d6726115379d049abf84b4405bbdc6, type: 3}
+    SkillCD: 15
+    Drain: 10
+    Speed: 0
+    Damage: 80
+    Force: 0
+    Duration: 1
+    Effects:
+    - {fileID: 100000, guid: e55fb9036c4632d46bffd8ba8186891c, type: 3}
+    name: "\u843D\u96F7"
+    image: {fileID: 21300000, guid: 954412ceed4936c448ab4876bfcf0a7f, type: 3}
+    introduction: "\u653E\u5165\u53F3\u4FA7\u9ED1\u8272\u5FEB\u6377\u952E\u53EF\u91CA\u653E\u6280\u80FD"
+  - Id: 3
+    Type: 8
+    SkillIndictortype: 0
+    NeededObjId: []
+    NeededUseId: []
+    NeededStateId: []
+    InstantType: 2
+    SkillPrefab: {fileID: 0}
+    SkillCD: 0
+    Drain: 0
+    Speed: 0
+    Damage: 0
+    Force: 0
+    Duration: 100000000
+    Effects: []
+    name: "\u969C\u773C\u6CD5"
+    image: {fileID: 21300000, guid: de8bc47bb66917849b4c62a82c5f27b0, type: 3}
+    introduction: 
+  - Id: 4
+    Type: 8
+    SkillIndictortype: 0
+    NeededObjId: []
+    NeededUseId: []
+    NeededStateId: []
+    InstantType: 2
+    SkillPrefab: {fileID: 5825326268307032048, guid: 6c950ae993567244596d922940eabae4, type: 3}
+    SkillCD: 0
+    Drain: 0
+    Speed: 0
+    Damage: 0
+    Force: 0
+    Duration: 100000000
+    Effects: []
+    name: "\u8FF7\u9B42"
+    image: {fileID: 21300000, guid: 84be1ddb6d92661429c08cc074b5199b, type: 3}
+    introduction: 
+  - Id: 5
+    Type: 8
+    SkillIndictortype: 0
+    NeededObjId: []
+    NeededUseId: []
+    NeededStateId: []
+    InstantType: 4
+    SkillPrefab: {fileID: 4646847769400322020, guid: d67112358b6785a488a530d883d0e421, type: 3}
+    SkillCD: 0
+    Drain: 0
+    Speed: 1.5
+    Damage: 0
+    Force: 0
+    Duration: 10
+    Effects:
+    - {fileID: 100010, guid: ce81c71bd20348b4781adf87fb47153f, type: 3}
+    name: "\u6728\u5E7B\u73E0"
+    image: {fileID: 21300000, guid: af3042d05428ece4392e181736325bad, type: 3}
+    introduction: 
+  - Id: 6
+    Type: 8
+    SkillIndictortype: 0
+    NeededObjId: []
+    NeededUseId: []
+    NeededStateId: []
+    InstantType: 4
+    SkillPrefab: {fileID: 2059647332351859070, guid: e69317731b1746944b5c17c7af89fbe0, type: 3}
+    SkillCD: 0
+    Drain: 0
+    Speed: 0
+    Damage: 0
+    Force: 0
+    Duration: 10
+    Effects: []
+    name: "\u94C1\u5E7B\u73E0"
+    image: {fileID: 21300000, guid: f68729b4a607b934680ec27968a418ca, type: 3}
+    introduction: 
+  - Id: 7
+    Type: 8
+    SkillIndictortype: 0
+    NeededObjId: []
+    NeededUseId: []
+    NeededStateId: []
+    InstantType: 4
+    SkillPrefab: {fileID: 7063920290247085116, guid: a5af85b7b5c98bf4689d23f618141b27, type: 3}
+    SkillCD: 0
+    Drain: 0
+    Speed: 1.5
+    Damage: 0
+    Force: 0
+    Duration: 10
+    Effects:
+    - {fileID: 100000, guid: b0db3a8438113cf45ab407234cb123cc, type: 3}
+    name: "\u846B\u82A6\u5E7B\u73E0"
+    image: {fileID: 21300000, guid: 61af02ca742b61c409785c7d51e656ad, type: 3}
+    introduction: 
+  - Id: 8
+    Type: 8
+    SkillIndictortype: 2
+    NeededObjId: []
+    NeededUseId: []
+    NeededStateId: []
+    InstantType: 4
+    SkillPrefab: {fileID: 0}
+    SkillCD: 0
+    Drain: 0
+    Speed: 0
+    Damage: 0
+    Force: 0
+    Duration: 9999999
+    Effects: []
+    name: "\u503E\u5012"
+    image: {fileID: 21300000, guid: e96dcaa1a2698154cbf63430cf00aec2, type: 3}
+    introduction: 

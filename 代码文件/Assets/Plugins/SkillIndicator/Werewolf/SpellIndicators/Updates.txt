@@ -1,0 +1,38 @@
+﻿
+
+daily assets update for try.
+
+U should buy the asset from home store if u use it in your project!_________________________________________________________________________
+
+# Version 1.3
+________________________________________________________________________________________________________________________
+
+Adjustable Range Indicator can be displayed alongside Spell splats.
+
+Spell Splat cursor can be restricted to bounds of Range Indicator.
+
+________________________________________________________________________________________________________________________
+
+# Version 1.2
+________________________________________________________________________________________________________________________
+
+Splats can now have their sizes adjusted dynamically. 
+
+https://www.youtube.com/watch?v=tfi3Kcb-qtw
+
+You can have a variety of spells use the same splat with scaling based on range for instance.
+
+Please refer to the demo for default origin and offset values for accurate scaling.
+
+________________________________________________________________________________________________________________________
+
+# Version 1.1
+________________________________________________________________________________________________________________________
+
+Added Cancel() Method to SplatManager, Splats.Cancel() is simpler and more defensive than CurrentSplat.SetVisible(false).
+
+Added premade example Splats to library (Direction, Cone, Point). 
+
+Added premade SplatManager prefab for quicker startup, just drag onto character.
+
+Updated text tutorial.

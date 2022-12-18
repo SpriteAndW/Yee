@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1359457a7034ede48b395c4acceb0a98, type: 3}
+  m_Name: FuluItemData_SO
+  m_EditorClassIdentifier: 
+  FuluList:
+  - ID: 0
+    image: {fileID: 21300000, guid: 3389ca8a0873b4f4b93c8ab036c7ee88, type: 3}
+    name: "\u7A7A\u7B26\u7EB8"
+    introduction: "\u70B9\u51FB\u6253\u5F00\u7ED8\u5236\u7B26\u5492\u5217\u8868"
+    durability: 0
+    targetFulu: {fileID: 0}
+    targetFuluBG: {fileID: 0}
+  - ID: 1001
+    image: {fileID: 21300000, guid: bf7a05b90b351ef46873f903d3ea7c04, type: 3}
+    name: "\u5148\u5929\u8475\u6C34\u884C\u4E91\u7B26"
+    introduction: "\u7B26\u7B93\uFF0C\u4E09\u79CD\u7528\u6CD5\u3002"
+    durability: 0
+    targetFulu: {fileID: 2800000, guid: 49129d7fd83f3014092ec0f431ecdfe7, type: 3}
+    targetFuluBG: {fileID: 2800000, guid: f3e48d8aff94ff140a0b3e84498bb131, type: 3}
+  - ID: 1002
+    image: {fileID: 21300000, guid: bf7a05b90b351ef46873f903d3ea7c04, type: 3}
+    name: "\u771F\u5143\u9633\u706B\u5FA1\u708E\u7B26"
+    introduction: "\u7B26\u7B93\uFF0C\u4E09\u79CD\u7528\u6CD5\u3002"
+    durability: 0
+    targetFulu: {fileID: 2800000, guid: b4f41fb43e3f3284298abaf2be00f248, type: 3}
+    targetFuluBG: {fileID: 2800000, guid: 6a9ff4bfb2b445645b08ab588f11e416, type: 3}
+  - ID: 1003
+    image: {fileID: 21300000, guid: bf7a05b90b351ef46873f903d3ea7c04, type: 3}
+    name: "\u571F\u6BCD\u6CB3\u8F66\u7A7F\u884C\u7B26"
+    introduction: "\u7B26\u7B93\uFF0C\u4E09\u79CD\u7528\u6CD5\u3002"
+    durability: 0
+    targetFulu: {fileID: 2800000, guid: 4fd72b4152a79b64faa7ee7852b6f6af, type: 3}
+    targetFuluBG: {fileID: 2800000, guid: abe675de2337d8c4ea974411fc876f71, type: 3}
+  - ID: 1004
+    image: {fileID: 21300000, guid: bf7a05b90b351ef46873f903d3ea7c04, type: 3}
+    name: "\u5148\u5929\u6728\u6797\u957F\u751F\u7B26"
+    introduction: "\u7B26\u7B93\uFF0C\u4E09\u79CD\u7528\u6CD5\u3002"
+    durability: 0
+    targetFulu: {fileID: 2800000, guid: 5f648386a9a136c419605041ad895f37, type: 3}
+    targetFuluBG: {fileID: 2800000, guid: 112b6b8b28eb2a440883fe52defb8fc2, type: 3}
+  - ID: 2001
+    image: {fileID: 21300000, guid: 9c93b3c58a508404ba91db6df7c1699e, type: 3}
+    name: "\u6843\u6728\u5251"
+    introduction: "\u53EF\u88C5\u5907\u666E\u901A\u653B\u51FB"
+    durability: 0
+    targetFulu: {fileID: 0}
+    targetFuluBG: {fileID: 0}
+  - ID: 2002
+    image: {fileID: 21300000, guid: ea75ce70485219b40acfce9171b61c14, type: 3}
+    name: "\u7F57\u76D8"
+    introduction: "\u70B9\u51FB\u53EF\u8FFD\u8E2A\u6700\u8FD1\u7684\u9635\u773C"
+    durability: 0
+    targetFulu: {fileID: 0}
+    targetFuluBG: {fileID: 0}
+  - ID: 2003
+    image: {fileID: 21300000, guid: a8d3e31dae293414f9be81e0e52ba4a0, type: 3}
+    name: "\u9ED1\u72D7\u8840"
+    introduction: "\u4F7F\u7528\u540E\u53EF\u4EE5\u4F7F\u654C\u4EBA\u8FDB\u5165\u7729\u6655\u72B6\u6001"
+    durability: 0
+    targetFulu: {fileID: 0}
+    targetFuluBG: {fileID: 0}
+  - ID: 2004
+    image: {fileID: 21300000, guid: 58afc52dd301ead40943896eb37a59b4, type: 3}
+    name: "\u6C34\u706B"
+    introduction: "\u4F7F\u7528\u540E\u53EF\u4EE5\u4F7F\u654C\u4EBA\u8FDB\u5165\u71C3\u70E7\u72B6\u6001"
+    durability: 0
+    targetFulu: {fileID: 0}
+    targetFuluBG: {fileID: 0}
